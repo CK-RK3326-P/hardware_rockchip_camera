@@ -473,7 +473,7 @@
 
 <!-- ******************PSL specific section end **************************************************************-->
     </Profiles>
-	<Profiles cameraId="0" name="ov5695" moduleId="m00">
+	<Profiles cameraId="0" name="ov5648" moduleId="m00">
         <Supported_hardware>
             <hwType value="SUPPORTED_HW_RKISP1"/>
         </Supported_hardware>
